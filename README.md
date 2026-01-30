@@ -1,3 +1,12 @@
 # 🛠️ Laboratorio: Workflow e Strumenti di Sviluppo
 
-Questo repository contiene un'introduzione a git.
+## Struttura repository
+
+```
+├─ 01_teoria
+├─ 02_esercizi
+│       └─ ex_1
+│
+├─ .gitignore
+└─ REDME.md
+```
