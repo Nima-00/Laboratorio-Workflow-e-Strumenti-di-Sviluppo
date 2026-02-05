@@ -20,6 +20,20 @@ Tools:
 │
 ├─ .gitignore
 └─ REDME.md
+
+00_tools_summary           # Overview + linting/formatting/type hints
+01_git
+02_github                  # Potrebbe includere cenni a GitHub Actions
+03_venv
+04_debugger
+05_gestione_errori         # Potrebbe includere sezione su logging
+06_testing                 # ← NUOVO (pytest)
+07_pyproject
+08_docker
+09_numpy
+10_pandas
+11_matplotlib
+12_jupyter                 # ← NUOVO (se rilevante)
 ```
 
 ## Set-Up
