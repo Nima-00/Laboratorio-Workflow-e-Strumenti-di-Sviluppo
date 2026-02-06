@@ -1,4 +1,4 @@
-"""Module Ex 2"""
+"""Module Ex 3"""
 
 import numpy as np
 
