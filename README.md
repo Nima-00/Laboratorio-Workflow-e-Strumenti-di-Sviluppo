@@ -14,13 +14,26 @@ Tools:
 ## Struttura repository
 
 ```
-├─ 01_teoria
-├─ 02_esercizi
-│       └─ ex_1
+├─ 01_teoria                            # Teoria
+│       ├─ 00_repo_structure
+│       ├─ 01_git
+│       ├─ 02_github
+│       ├─ ...
+│       └─ ...
+│
+├─ 02_esercizi                          # Esercizi
+│       └─ ex_i.ipynb
+│
+├─ 03_soluzioni                         # Soluzioni
+│       └─ ex_i
+│           ├─ ex_i_utils.py            # Module
+│           └─ ex_i.ipynb               # Notebook
 │
 ├─ .gitignore
 └─ REDME.md
+```
 
+<!-- 
 00_tools_summary           # Overview + linting/formatting/type hints
 01_git
 02_github                  # Potrebbe includere cenni a GitHub Actions
@@ -33,8 +46,7 @@ Tools:
 09_numpy
 10_pandas
 11_matplotlib
-12_jupyter                 # ← NUOVO (se rilevante)
-```
+12_jupyter                 # ← NUOVO (se rilevante) -->
 
 ## Set-Up
 Per svolgere questo modulo è vivamente consigliabile installare sul proprio pc personale i seguenti software:
