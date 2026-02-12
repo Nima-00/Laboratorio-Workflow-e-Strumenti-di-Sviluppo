@@ -7,7 +7,7 @@ def fun_1(A: np.ndarray) -> bool:
     """Controlla se una matrice è diagonale"""
     for i in range(A.shape[0]):
         for j in range(A.shape[1]):
-            if i != j and A[i][j] != A[j][i]:
+            if i != j and A[i][j] != 0:
                 return False
     return True
 
@@ -18,7 +18,6 @@ def fun_2(A: np.ndarray) -> bool:
         for j in range(A.shape[1]):
             if A[i][j] != A[j][i]:
                 return False
-
     return True
 
 

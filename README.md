@@ -1,6 +1,8 @@
 # 🛠️ Laboratorio: Workflow e Strumenti di Sviluppo
 
-Scopo: imparare a organizzare un repository
+Lo scopo di questo repository è fornire un metodo per strutturare il codice secondo i principi della programmazione modularedi e introdurre i più comuni strumenti utilizzati in fase di sviluppo.
+
+<!-- Scopo: imparare a organizzare un repository
 - file da inserire
 - struttura a moduli
 - documentazione
@@ -9,7 +11,7 @@ Tools:
 - git
 - github
 - formatter
-- debugger
+- debugger -->
 
 ## Struttura repository
 
@@ -48,7 +50,7 @@ Tools:
 11_matplotlib
 12_jupyter                 # ← NUOVO (se rilevante) -->
 
-## Set-Up
+## Set-Up iniziale
 Per svolgere questo modulo è vivamente consigliabile installare sul proprio pc personale i seguenti software:
 - [**Visual Studio Code**](https://code.visualstudio.com/)
 - [**Python**](https://www.python.org/)
